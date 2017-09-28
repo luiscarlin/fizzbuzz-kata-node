@@ -2,9 +2,9 @@
   "name": "fizzbuzz-kata-node",
   "version": "1.0.0",
   "description": "FizzBuzz",
-  "main": "index.js",
+  "main": "./app/fizzbuzz.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",

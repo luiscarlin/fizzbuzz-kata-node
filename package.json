@@ -1,0 +1,25 @@
+{
+  "name": "fizzbuzz-kata-node",
+  "version": "1.0.0",
+  "description": "FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscarlin/fizzbuzz-kata-node.git"
+  },
+  "keywords": [
+    "FizzBuzz"
+  ],
+  "author": "luiscarlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiscarlin/fizzbuzz-kata-node/issues"
+  },
+  "homepage": "https://github.com/luiscarlin/fizzbuzz-kata-node#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
